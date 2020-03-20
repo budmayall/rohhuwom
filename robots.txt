@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ailakahghi.carteduvin.com/sitemap.xml
